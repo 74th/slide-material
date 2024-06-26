@@ -1,6 +1,6 @@
-# Icon Modified from OpenEmoji
+# Icon Modified from OpenMoji
 
-This icons is based on the original work of the OpenEmoji project, with modifications in color. This work is provided under the Creative Commons Attribution-ShareAlike 4.0 International License.
+This icons is based on the original work of the OpenMoji project, with modifications in color. This work is provided under the Creative Commons Attribution-ShareAlike 4.0 International License.
 
 ## Original
 
