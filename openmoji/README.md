@@ -4,6 +4,6 @@ This icons is based on the original work of the OpenMoji project, with modificat
 
 ## Original
 
-OpenEmoji
+OpenMoji
 
 https://openmoji.org/
